@@ -1,0 +1,27 @@
+.btn-success-1 {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+    border-radius: 2px;
+}
+
+.btn-danger-1 {
+    color: #fff;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+    border-radius: 2px;
+}
+
+.generated-captcha {
+    text-decoration: line-through;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    background-color: #ede7f6;
+    border-radius: 6px;
+    border: none;
+    padding: 6px 20px;
+    outline: none;
+    margin-left: 150px;
+    color: #1d1d1d;
+}

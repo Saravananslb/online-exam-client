@@ -1,0 +1,16 @@
+.container-home {
+    color: #fff !important;
+    background-color: #337ab7 !important;
+    border-color: #337ab7 !important;
+}
+
+.container-home-main {
+    color: #a94442 !important;
+    background-color: #f2dede !important;
+    border-color: #ebccd1 !important;
+}
+
+.links {
+    color: #337ab7 !important;
+    cursor: pointer !important;
+}
